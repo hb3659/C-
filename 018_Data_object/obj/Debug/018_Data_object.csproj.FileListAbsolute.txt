@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\018_Data_object\bin\Debug\018_Data_object.exe.config
+C:\Users\hb365\source\repos\CS_Project\018_Data_object\bin\Debug\018_Data_object.exe
+C:\Users\hb365\source\repos\CS_Project\018_Data_object\bin\Debug\018_Data_object.pdb
+C:\Users\hb365\source\repos\CS_Project\018_Data_object\obj\Debug\018_Data_object.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\018_Data_object\obj\Debug\018_Data_object.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\018_Data_object\obj\Debug\018_Data_object.exe
+C:\Users\hb365\source\repos\CS_Project\018_Data_object\obj\Debug\018_Data_object.pdb

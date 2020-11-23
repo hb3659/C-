@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\025_Data_ToString\bin\Debug\025_Data_ToString.exe.config
+C:\Users\hb365\source\repos\CS_Project\025_Data_ToString\bin\Debug\025_Data_ToString.exe
+C:\Users\hb365\source\repos\CS_Project\025_Data_ToString\bin\Debug\025_Data_ToString.pdb
+C:\Users\hb365\source\repos\CS_Project\025_Data_ToString\obj\Debug\025_Data_ToString.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\025_Data_ToString\obj\Debug\025_Data_ToString.exe
+C:\Users\hb365\source\repos\CS_Project\025_Data_ToString\obj\Debug\025_Data_ToString.pdb

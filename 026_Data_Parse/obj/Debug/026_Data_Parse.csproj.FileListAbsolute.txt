@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\026_Data_Parse\bin\Debug\026_Data_Parse.exe.config
+C:\Users\hb365\source\repos\CS_Project\026_Data_Parse\bin\Debug\026_Data_Parse.exe
+C:\Users\hb365\source\repos\CS_Project\026_Data_Parse\bin\Debug\026_Data_Parse.pdb
+C:\Users\hb365\source\repos\CS_Project\026_Data_Parse\obj\Debug\026_Data_Parse.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\026_Data_Parse\obj\Debug\026_Data_Parse.exe
+C:\Users\hb365\source\repos\CS_Project\026_Data_Parse\obj\Debug\026_Data_Parse.pdb

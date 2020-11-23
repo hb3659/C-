@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\057_Check\bin\Debug\057_Check.exe.config
+C:\Users\hb365\source\repos\CS_Project\057_Check\bin\Debug\057_Check.exe
+C:\Users\hb365\source\repos\CS_Project\057_Check\bin\Debug\057_Check.pdb
+C:\Users\hb365\source\repos\CS_Project\057_Check\obj\Debug\057_Check.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\057_Check\obj\Debug\057_Check.exe
+C:\Users\hb365\source\repos\CS_Project\057_Check\obj\Debug\057_Check.pdb

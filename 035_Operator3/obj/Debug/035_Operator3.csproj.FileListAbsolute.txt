@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\035_Operator3\bin\Debug\035_Operator3.exe.config
+C:\Users\hb365\source\repos\CS_Project\035_Operator3\bin\Debug\035_Operator3.exe
+C:\Users\hb365\source\repos\CS_Project\035_Operator3\bin\Debug\035_Operator3.pdb
+C:\Users\hb365\source\repos\CS_Project\035_Operator3\obj\Debug\035_Operator3.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\035_Operator3\obj\Debug\035_Operator3.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\035_Operator3\obj\Debug\035_Operator3.exe
+C:\Users\hb365\source\repos\CS_Project\035_Operator3\obj\Debug\035_Operator3.pdb

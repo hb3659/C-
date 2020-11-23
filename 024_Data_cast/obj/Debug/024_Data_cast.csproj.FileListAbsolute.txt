@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\024_Data_cast\bin\Debug\024_Data_cast.exe.config
+C:\Users\hb365\source\repos\CS_Project\024_Data_cast\bin\Debug\024_Data_cast.exe
+C:\Users\hb365\source\repos\CS_Project\024_Data_cast\bin\Debug\024_Data_cast.pdb
+C:\Users\hb365\source\repos\CS_Project\024_Data_cast\obj\Debug\024_Data_cast.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\024_Data_cast\obj\Debug\024_Data_cast.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\024_Data_cast\obj\Debug\024_Data_cast.exe
+C:\Users\hb365\source\repos\CS_Project\024_Data_cast\obj\Debug\024_Data_cast.pdb

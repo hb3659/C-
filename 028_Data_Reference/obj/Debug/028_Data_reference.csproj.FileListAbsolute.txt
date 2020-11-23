@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\028_Data_reference\bin\Debug\028_Data_reference.exe.config
+C:\Users\hb365\source\repos\CS_Project\028_Data_reference\bin\Debug\028_Data_reference.exe
+C:\Users\hb365\source\repos\CS_Project\028_Data_reference\bin\Debug\028_Data_reference.pdb
+C:\Users\hb365\source\repos\CS_Project\028_Data_reference\obj\Debug\028_Data_reference.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\028_Data_reference\obj\Debug\028_Data_reference.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\028_Data_reference\obj\Debug\028_Data_reference.exe
+C:\Users\hb365\source\repos\CS_Project\028_Data_reference\obj\Debug\028_Data_reference.pdb

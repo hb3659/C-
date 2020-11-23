@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\CheckPoint_01\bin\Debug\CheckPoint_01.exe.config
+C:\Users\hb365\source\repos\CS_Project\CheckPoint_01\bin\Debug\CheckPoint_01.exe
+C:\Users\hb365\source\repos\CS_Project\CheckPoint_01\bin\Debug\CheckPoint_01.pdb
+C:\Users\hb365\source\repos\CS_Project\CheckPoint_01\obj\Debug\CheckPoint_01.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\CheckPoint_01\obj\Debug\CheckPoint_01.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\CheckPoint_01\obj\Debug\CheckPoint_01.exe
+C:\Users\hb365\source\repos\CS_Project\CheckPoint_01\obj\Debug\CheckPoint_01.pdb

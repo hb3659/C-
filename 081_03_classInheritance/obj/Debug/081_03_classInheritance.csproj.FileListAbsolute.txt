@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\081_03_classInheritance\bin\Debug\081_03_classInheritance.exe.config
+C:\Users\hb365\source\repos\CS_Project\081_03_classInheritance\bin\Debug\081_03_classInheritance.exe
+C:\Users\hb365\source\repos\CS_Project\081_03_classInheritance\bin\Debug\081_03_classInheritance.pdb
+C:\Users\hb365\source\repos\CS_Project\081_03_classInheritance\obj\Debug\081_03_classInheritance.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\081_03_classInheritance\obj\Debug\081_03_classInheritance.exe
+C:\Users\hb365\source\repos\CS_Project\081_03_classInheritance\obj\Debug\081_03_classInheritance.pdb

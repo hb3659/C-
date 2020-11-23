@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\066_Func_params\bin\Debug\066_Func_params.exe.config
+C:\Users\hb365\source\repos\CS_Project\066_Func_params\bin\Debug\066_Func_params.exe
+C:\Users\hb365\source\repos\CS_Project\066_Func_params\bin\Debug\066_Func_params.pdb
+C:\Users\hb365\source\repos\CS_Project\066_Func_params\obj\Debug\066_Func_params.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\066_Func_params\obj\Debug\066_Func_params.exe
+C:\Users\hb365\source\repos\CS_Project\066_Func_params\obj\Debug\066_Func_params.pdb

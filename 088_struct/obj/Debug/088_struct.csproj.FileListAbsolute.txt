@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\088_struct\bin\Debug\088_struct.exe.config
+C:\Users\hb365\source\repos\CS_Project\088_struct\bin\Debug\088_struct.exe
+C:\Users\hb365\source\repos\CS_Project\088_struct\bin\Debug\088_struct.pdb
+C:\Users\hb365\source\repos\CS_Project\088_struct\obj\Debug\088_struct.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\088_struct\obj\Debug\088_struct.exe
+C:\Users\hb365\source\repos\CS_Project\088_struct\obj\Debug\088_struct.pdb

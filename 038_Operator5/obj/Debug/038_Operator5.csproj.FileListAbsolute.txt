@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\038_Operator5\bin\Debug\038_Operator5.exe.config
+C:\Users\hb365\source\repos\CS_Project\038_Operator5\bin\Debug\038_Operator5.exe
+C:\Users\hb365\source\repos\CS_Project\038_Operator5\bin\Debug\038_Operator5.pdb
+C:\Users\hb365\source\repos\CS_Project\038_Operator5\obj\Debug\038_Operator5.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\038_Operator5\obj\Debug\038_Operator5.exe
+C:\Users\hb365\source\repos\CS_Project\038_Operator5\obj\Debug\038_Operator5.pdb

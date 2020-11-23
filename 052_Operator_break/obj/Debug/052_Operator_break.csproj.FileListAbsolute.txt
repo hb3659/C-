@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\052_Operator_break\bin\Debug\052_Operator_break.exe.config
+C:\Users\hb365\source\repos\CS_Project\052_Operator_break\bin\Debug\052_Operator_break.exe
+C:\Users\hb365\source\repos\CS_Project\052_Operator_break\bin\Debug\052_Operator_break.pdb
+C:\Users\hb365\source\repos\CS_Project\052_Operator_break\obj\Debug\052_Operator_break.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\052_Operator_break\obj\Debug\052_Operator_break.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\052_Operator_break\obj\Debug\052_Operator_break.exe
+C:\Users\hb365\source\repos\CS_Project\052_Operator_break\obj\Debug\052_Operator_break.pdb

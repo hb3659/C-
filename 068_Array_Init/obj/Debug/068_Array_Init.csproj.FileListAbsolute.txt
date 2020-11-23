@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\068_Array_Init\obj\Debug\068_Array_Init.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\068_Array_Init\obj\Debug\068_Array_Init.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\068_Array_Init\bin\Debug\068_Array_Init.exe.config
+C:\Users\hb365\source\repos\CS_Project\068_Array_Init\bin\Debug\068_Array_Init.exe
+C:\Users\hb365\source\repos\CS_Project\068_Array_Init\bin\Debug\068_Array_Init.pdb
+C:\Users\hb365\source\repos\CS_Project\068_Array_Init\obj\Debug\068_Array_Init.exe
+C:\Users\hb365\source\repos\CS_Project\068_Array_Init\obj\Debug\068_Array_Init.pdb

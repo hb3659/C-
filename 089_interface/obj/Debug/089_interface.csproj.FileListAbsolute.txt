@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\089_interface\bin\Debug\089_interface.exe.config
+C:\Users\hb365\source\repos\CS_Project\089_interface\bin\Debug\089_interface.exe
+C:\Users\hb365\source\repos\CS_Project\089_interface\bin\Debug\089_interface.pdb
+C:\Users\hb365\source\repos\CS_Project\089_interface\obj\Debug\089_interface.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\089_interface\obj\Debug\089_interface.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\089_interface\obj\Debug\089_interface.exe
+C:\Users\hb365\source\repos\CS_Project\089_interface\obj\Debug\089_interface.pdb

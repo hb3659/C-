@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\023_Data_const\bin\Debug\023_Data_const.exe.config
+C:\Users\hb365\source\repos\CS_Project\023_Data_const\bin\Debug\023_Data_const.exe
+C:\Users\hb365\source\repos\CS_Project\023_Data_const\bin\Debug\023_Data_const.pdb
+C:\Users\hb365\source\repos\CS_Project\023_Data_const\obj\Debug\023_Data_const.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\023_Data_const\obj\Debug\023_Data_const.exe
+C:\Users\hb365\source\repos\CS_Project\023_Data_const\obj\Debug\023_Data_const.pdb

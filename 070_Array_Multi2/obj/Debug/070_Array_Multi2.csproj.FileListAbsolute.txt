@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\070_Array_Multi2\bin\Debug\070_Array_Multi2.exe.config
+C:\Users\hb365\source\repos\CS_Project\070_Array_Multi2\bin\Debug\070_Array_Multi2.exe
+C:\Users\hb365\source\repos\CS_Project\070_Array_Multi2\bin\Debug\070_Array_Multi2.pdb
+C:\Users\hb365\source\repos\CS_Project\070_Array_Multi2\obj\Debug\070_Array_Multi2.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\070_Array_Multi2\obj\Debug\070_Array_Multi2.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\070_Array_Multi2\obj\Debug\070_Array_Multi2.exe
+C:\Users\hb365\source\repos\CS_Project\070_Array_Multi2\obj\Debug\070_Array_Multi2.pdb

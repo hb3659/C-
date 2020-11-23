@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\054_Operator_goto\bin\Debug\054_Operator_goto.exe.config
+C:\Users\hb365\source\repos\CS_Project\054_Operator_goto\bin\Debug\054_Operator_goto.exe
+C:\Users\hb365\source\repos\CS_Project\054_Operator_goto\bin\Debug\054_Operator_goto.pdb
+C:\Users\hb365\source\repos\CS_Project\054_Operator_goto\obj\Debug\054_Operator_goto.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\054_Operator_goto\obj\Debug\054_Operator_goto.exe
+C:\Users\hb365\source\repos\CS_Project\054_Operator_goto\obj\Debug\054_Operator_goto.pdb

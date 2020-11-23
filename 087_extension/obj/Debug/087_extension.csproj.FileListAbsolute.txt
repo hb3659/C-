@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\087_extension\bin\Debug\087_extension.exe.config
+C:\Users\hb365\source\repos\CS_Project\087_extension\bin\Debug\087_extension.exe
+C:\Users\hb365\source\repos\CS_Project\087_extension\bin\Debug\087_extension.pdb
+C:\Users\hb365\source\repos\CS_Project\087_extension\obj\Debug\087_extension.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\087_extension\obj\Debug\087_extension.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\087_extension\obj\Debug\087_extension.exe
+C:\Users\hb365\source\repos\CS_Project\087_extension\obj\Debug\087_extension.pdb

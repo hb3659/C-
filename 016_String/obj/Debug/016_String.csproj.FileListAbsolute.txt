@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\016_String\bin\Debug\016_String.exe.config
+C:\Users\hb365\source\repos\CS_Project\016_String\bin\Debug\016_String.exe
+C:\Users\hb365\source\repos\CS_Project\016_String\bin\Debug\016_String.pdb
+C:\Users\hb365\source\repos\CS_Project\016_String\obj\Debug\016_String.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\016_String\obj\Debug\016_String.exe
+C:\Users\hb365\source\repos\CS_Project\016_String\obj\Debug\016_String.pdb

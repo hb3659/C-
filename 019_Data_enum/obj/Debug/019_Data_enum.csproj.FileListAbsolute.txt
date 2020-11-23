@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\019_Data_enum\bin\Debug\019_Data_enum.exe.config
+C:\Users\hb365\source\repos\CS_Project\019_Data_enum\bin\Debug\019_Data_enum.exe
+C:\Users\hb365\source\repos\CS_Project\019_Data_enum\bin\Debug\019_Data_enum.pdb
+C:\Users\hb365\source\repos\CS_Project\019_Data_enum\obj\Debug\019_Data_enum.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\019_Data_enum\obj\Debug\019_Data_enum.exe
+C:\Users\hb365\source\repos\CS_Project\019_Data_enum\obj\Debug\019_Data_enum.pdb

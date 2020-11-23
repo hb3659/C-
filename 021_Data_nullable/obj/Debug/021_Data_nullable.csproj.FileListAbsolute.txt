@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\021_Data_nullable\bin\Debug\021_Data_nullable.exe.config
+C:\Users\hb365\source\repos\CS_Project\021_Data_nullable\bin\Debug\021_Data_nullable.exe
+C:\Users\hb365\source\repos\CS_Project\021_Data_nullable\bin\Debug\021_Data_nullable.pdb
+C:\Users\hb365\source\repos\CS_Project\021_Data_nullable\obj\Debug\021_Data_nullable.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\021_Data_nullable\obj\Debug\021_Data_nullable.exe
+C:\Users\hb365\source\repos\CS_Project\021_Data_nullable\obj\Debug\021_Data_nullable.pdb

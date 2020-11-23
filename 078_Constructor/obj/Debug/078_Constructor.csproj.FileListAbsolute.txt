@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\078_Constructor\bin\Debug\078_Constructor.exe.config
+C:\Users\hb365\source\repos\CS_Project\078_Constructor\bin\Debug\078_Constructor.exe
+C:\Users\hb365\source\repos\CS_Project\078_Constructor\bin\Debug\078_Constructor.pdb
+C:\Users\hb365\source\repos\CS_Project\078_Constructor\obj\Debug\078_Constructor.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\078_Constructor\obj\Debug\078_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\078_Constructor\obj\Debug\078_Constructor.exe
+C:\Users\hb365\source\repos\CS_Project\078_Constructor\obj\Debug\078_Constructor.pdb

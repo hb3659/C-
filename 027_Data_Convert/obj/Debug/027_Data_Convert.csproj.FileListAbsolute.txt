@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\027_Data_Convert\bin\Debug\027_Data_Convert.exe.config
+C:\Users\hb365\source\repos\CS_Project\027_Data_Convert\bin\Debug\027_Data_Convert.exe
+C:\Users\hb365\source\repos\CS_Project\027_Data_Convert\bin\Debug\027_Data_Convert.pdb
+C:\Users\hb365\source\repos\CS_Project\027_Data_Convert\obj\Debug\027_Data_Convert.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\027_Data_Convert\obj\Debug\027_Data_Convert.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\027_Data_Convert\obj\Debug\027_Data_Convert.exe
+C:\Users\hb365\source\repos\CS_Project\027_Data_Convert\obj\Debug\027_Data_Convert.pdb

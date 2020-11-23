@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\040_Operator_Bit\bin\Debug\040_Operator_Bit.exe.config
+C:\Users\hb365\source\repos\CS_Project\040_Operator_Bit\bin\Debug\040_Operator_Bit.exe
+C:\Users\hb365\source\repos\CS_Project\040_Operator_Bit\bin\Debug\040_Operator_Bit.pdb
+C:\Users\hb365\source\repos\CS_Project\040_Operator_Bit\obj\Debug\040_Operator_Bit.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\040_Operator_Bit\obj\Debug\040_Operator_Bit.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\040_Operator_Bit\obj\Debug\040_Operator_Bit.exe
+C:\Users\hb365\source\repos\CS_Project\040_Operator_Bit\obj\Debug\040_Operator_Bit.pdb

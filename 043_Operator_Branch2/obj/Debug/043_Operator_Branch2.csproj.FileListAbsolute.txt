@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\043_Operator_Branch2\bin\Debug\043_Operator_Branch2.exe.config
+C:\Users\hb365\source\repos\CS_Project\043_Operator_Branch2\bin\Debug\043_Operator_Branch2.exe
+C:\Users\hb365\source\repos\CS_Project\043_Operator_Branch2\bin\Debug\043_Operator_Branch2.pdb
+C:\Users\hb365\source\repos\CS_Project\043_Operator_Branch2\obj\Debug\043_Operator_Branch2.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\043_Operator_Branch2\obj\Debug\043_Operator_Branch2.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\043_Operator_Branch2\obj\Debug\043_Operator_Branch2.exe
+C:\Users\hb365\source\repos\CS_Project\043_Operator_Branch2\obj\Debug\043_Operator_Branch2.pdb

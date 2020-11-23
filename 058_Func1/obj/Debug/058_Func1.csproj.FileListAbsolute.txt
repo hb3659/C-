@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\058_Func1\bin\Debug\058_Func1.exe.config
+C:\Users\hb365\source\repos\CS_Project\058_Func1\bin\Debug\058_Func1.exe
+C:\Users\hb365\source\repos\CS_Project\058_Func1\bin\Debug\058_Func1.pdb
+C:\Users\hb365\source\repos\CS_Project\058_Func1\obj\Debug\058_Func1.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\058_Func1\obj\Debug\058_Func1.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\058_Func1\obj\Debug\058_Func1.exe
+C:\Users\hb365\source\repos\CS_Project\058_Func1\obj\Debug\058_Func1.pdb

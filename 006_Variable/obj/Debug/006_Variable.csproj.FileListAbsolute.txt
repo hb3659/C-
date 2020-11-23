@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\006_Variable\bin\Debug\006_Variable.exe.config
+C:\Users\hb365\source\repos\CS_Project\006_Variable\bin\Debug\006_Variable.exe
+C:\Users\hb365\source\repos\CS_Project\006_Variable\bin\Debug\006_Variable.pdb
+C:\Users\hb365\source\repos\CS_Project\006_Variable\obj\Debug\006_Variable.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\006_Variable\obj\Debug\006_Variable.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\006_Variable\obj\Debug\006_Variable.exe
+C:\Users\hb365\source\repos\CS_Project\006_Variable\obj\Debug\006_Variable.pdb

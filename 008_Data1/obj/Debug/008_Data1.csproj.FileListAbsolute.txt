@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\008_Data1\bin\Debug\008_Data1.exe.config
+C:\Users\hb365\source\repos\CS_Project\008_Data1\bin\Debug\008_Data1.exe
+C:\Users\hb365\source\repos\CS_Project\008_Data1\bin\Debug\008_Data1.pdb
+C:\Users\hb365\source\repos\CS_Project\008_Data1\obj\Debug\008_Data1.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\008_Data1\obj\Debug\008_Data1.exe
+C:\Users\hb365\source\repos\CS_Project\008_Data1\obj\Debug\008_Data1.pdb

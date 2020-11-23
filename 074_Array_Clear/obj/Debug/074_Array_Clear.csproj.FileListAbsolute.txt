@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\074_Array_Clear\bin\Debug\074_Array_Clear.exe.config
+C:\Users\hb365\source\repos\CS_Project\074_Array_Clear\bin\Debug\074_Array_Clear.exe
+C:\Users\hb365\source\repos\CS_Project\074_Array_Clear\bin\Debug\074_Array_Clear.pdb
+C:\Users\hb365\source\repos\CS_Project\074_Array_Clear\obj\Debug\074_Array_Clear.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\074_Array_Clear\obj\Debug\074_Array_Clear.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\074_Array_Clear\obj\Debug\074_Array_Clear.exe
+C:\Users\hb365\source\repos\CS_Project\074_Array_Clear\obj\Debug\074_Array_Clear.pdb

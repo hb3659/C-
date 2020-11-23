@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\051_Operator_while(true)\obj\Debug\051_Operator_while(true).csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\051_Operator_while(true)\obj\Debug\051_Operator_while(true).csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\051_Operator_while(true)\bin\Debug\051_Operator_while(true).exe.config
+C:\Users\hb365\source\repos\CS_Project\051_Operator_while(true)\bin\Debug\051_Operator_while(true).exe
+C:\Users\hb365\source\repos\CS_Project\051_Operator_while(true)\bin\Debug\051_Operator_while(true).pdb
+C:\Users\hb365\source\repos\CS_Project\051_Operator_while(true)\obj\Debug\051_Operator_while(true).exe
+C:\Users\hb365\source\repos\CS_Project\051_Operator_while(true)\obj\Debug\051_Operator_while(true).pdb

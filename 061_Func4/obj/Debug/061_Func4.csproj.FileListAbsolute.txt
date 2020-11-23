@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\061_Func4\bin\Debug\061_Func4.exe.config
+C:\Users\hb365\source\repos\CS_Project\061_Func4\bin\Debug\061_Func4.exe
+C:\Users\hb365\source\repos\CS_Project\061_Func4\bin\Debug\061_Func4.pdb
+C:\Users\hb365\source\repos\CS_Project\061_Func4\obj\Debug\061_Func4.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\061_Func4\obj\Debug\061_Func4.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\061_Func4\obj\Debug\061_Func4.exe
+C:\Users\hb365\source\repos\CS_Project\061_Func4\obj\Debug\061_Func4.pdb

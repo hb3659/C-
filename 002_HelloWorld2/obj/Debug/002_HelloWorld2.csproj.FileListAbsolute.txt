@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\002_HelloWorld2\bin\Debug\002_HelloWorld2.exe.config
+C:\Users\hb365\source\repos\CS_Project\002_HelloWorld2\bin\Debug\002_HelloWorld2.exe
+C:\Users\hb365\source\repos\CS_Project\002_HelloWorld2\bin\Debug\002_HelloWorld2.pdb
+C:\Users\hb365\source\repos\CS_Project\002_HelloWorld2\obj\Debug\002_HelloWorld2.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\002_HelloWorld2\obj\Debug\002_HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\002_HelloWorld2\obj\Debug\002_HelloWorld2.exe
+C:\Users\hb365\source\repos\CS_Project\002_HelloWorld2\obj\Debug\002_HelloWorld2.pdb

@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\046_Operator_switch2\bin\Debug\046_Operator_switch2.exe.config
+C:\Users\hb365\source\repos\CS_Project\046_Operator_switch2\bin\Debug\046_Operator_switch2.exe
+C:\Users\hb365\source\repos\CS_Project\046_Operator_switch2\bin\Debug\046_Operator_switch2.pdb
+C:\Users\hb365\source\repos\CS_Project\046_Operator_switch2\obj\Debug\046_Operator_switch2.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\046_Operator_switch2\obj\Debug\046_Operator_switch2.exe
+C:\Users\hb365\source\repos\CS_Project\046_Operator_switch2\obj\Debug\046_Operator_switch2.pdb

@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\085_class_has_a\bin\Debug\085_class_has_a.exe.config
+C:\Users\hb365\source\repos\CS_Project\085_class_has_a\bin\Debug\085_class_has_a.exe
+C:\Users\hb365\source\repos\CS_Project\085_class_has_a\bin\Debug\085_class_has_a.pdb
+C:\Users\hb365\source\repos\CS_Project\085_class_has_a\obj\Debug\085_class_has_a.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\085_class_has_a\obj\Debug\085_class_has_a.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\085_class_has_a\obj\Debug\085_class_has_a.exe
+C:\Users\hb365\source\repos\CS_Project\085_class_has_a\obj\Debug\085_class_has_a.pdb

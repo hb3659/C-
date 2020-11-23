@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\062_FuncSwap\bin\Debug\062_FuncSwap.exe.config
+C:\Users\hb365\source\repos\CS_Project\062_FuncSwap\bin\Debug\062_FuncSwap.exe
+C:\Users\hb365\source\repos\CS_Project\062_FuncSwap\bin\Debug\062_FuncSwap.pdb
+C:\Users\hb365\source\repos\CS_Project\062_FuncSwap\obj\Debug\062_FuncSwap.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\062_FuncSwap\obj\Debug\062_FuncSwap.exe
+C:\Users\hb365\source\repos\CS_Project\062_FuncSwap\obj\Debug\062_FuncSwap.pdb

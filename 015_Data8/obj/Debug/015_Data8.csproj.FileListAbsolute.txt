@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\015_Data8\bin\Debug\015_Data8.exe.config
+C:\Users\hb365\source\repos\CS_Project\015_Data8\bin\Debug\015_Data8.exe
+C:\Users\hb365\source\repos\CS_Project\015_Data8\bin\Debug\015_Data8.pdb
+C:\Users\hb365\source\repos\CS_Project\015_Data8\obj\Debug\015_Data8.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\015_Data8\obj\Debug\015_Data8.exe
+C:\Users\hb365\source\repos\CS_Project\015_Data8\obj\Debug\015_Data8.pdb

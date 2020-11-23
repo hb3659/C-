@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\080_static\bin\Debug\080_static.exe.config
+C:\Users\hb365\source\repos\CS_Project\080_static\bin\Debug\080_static.exe
+C:\Users\hb365\source\repos\CS_Project\080_static\bin\Debug\080_static.pdb
+C:\Users\hb365\source\repos\CS_Project\080_static\obj\Debug\080_static.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\080_static\obj\Debug\080_static.exe
+C:\Users\hb365\source\repos\CS_Project\080_static\obj\Debug\080_static.pdb
+C:\Users\hb365\source\repos\CS_Project\080_static\obj\Debug\080_static.csprojAssemblyReference.cache

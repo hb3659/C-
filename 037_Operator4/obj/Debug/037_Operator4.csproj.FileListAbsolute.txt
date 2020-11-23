@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\037_Operator4\bin\Debug\037_Operator4.exe.config
+C:\Users\hb365\source\repos\CS_Project\037_Operator4\bin\Debug\037_Operator4.exe
+C:\Users\hb365\source\repos\CS_Project\037_Operator4\bin\Debug\037_Operator4.pdb
+C:\Users\hb365\source\repos\CS_Project\037_Operator4\obj\Debug\037_Operator4.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\037_Operator4\obj\Debug\037_Operator4.exe
+C:\Users\hb365\source\repos\CS_Project\037_Operator4\obj\Debug\037_Operator4.pdb

@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\090_abstract\bin\Debug\090_abstract.exe.config
+C:\Users\hb365\source\repos\CS_Project\090_abstract\bin\Debug\090_abstract.exe
+C:\Users\hb365\source\repos\CS_Project\090_abstract\bin\Debug\090_abstract.pdb
+C:\Users\hb365\source\repos\CS_Project\090_abstract\obj\Debug\090_abstract.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\090_abstract\obj\Debug\090_abstract.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\090_abstract\obj\Debug\090_abstract.exe
+C:\Users\hb365\source\repos\CS_Project\090_abstract\obj\Debug\090_abstract.pdb
