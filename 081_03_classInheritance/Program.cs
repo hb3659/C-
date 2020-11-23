@@ -22,7 +22,7 @@ namespace _081_03_classInheritance
     class Sub : Super
     {
         string name;
-        public Sub(int num, string name) : base(num)    // 부모의 생성자 함수에 파라미터가 필요하기 때문!
+        public Sub(int num, string name) : base(num)    // 부모의 생성자 함수에 파라미터가 필요하기 때문
         {
             this.name = name;
         }
@@ -38,7 +38,7 @@ namespace _081_03_classInheritance
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             Sub sub = new Sub(26, "Jack");
             sub.PrintSub();
         }

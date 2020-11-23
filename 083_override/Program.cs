@@ -14,6 +14,7 @@ namespace _083_override
         {
             Console.WriteLine("num: {0}", num);
         }
+        // override 하기 위해 virtual 필요
     }
     class AA : Super
     {
