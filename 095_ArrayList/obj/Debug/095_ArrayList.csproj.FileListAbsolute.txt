@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\095_ArrayList\bin\Debug\095_ArrayList.exe.config
+C:\Users\hb365\source\repos\CS_Project\095_ArrayList\bin\Debug\095_ArrayList.exe
+C:\Users\hb365\source\repos\CS_Project\095_ArrayList\bin\Debug\095_ArrayList.pdb
+C:\Users\hb365\source\repos\CS_Project\095_ArrayList\obj\Debug\095_ArrayList.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\095_ArrayList\obj\Debug\095_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\095_ArrayList\obj\Debug\095_ArrayList.exe
+C:\Users\hb365\source\repos\CS_Project\095_ArrayList\obj\Debug\095_ArrayList.pdb

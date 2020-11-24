@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\100_indexer02\bin\Debug\100_indexer02.exe.config
+C:\Users\hb365\source\repos\CS_Project\100_indexer02\bin\Debug\100_indexer02.exe
+C:\Users\hb365\source\repos\CS_Project\100_indexer02\bin\Debug\100_indexer02.pdb
+C:\Users\hb365\source\repos\CS_Project\100_indexer02\obj\Debug\100_indexer02.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\100_indexer02\obj\Debug\100_indexer02.exe
+C:\Users\hb365\source\repos\CS_Project\100_indexer02\obj\Debug\100_indexer02.pdb

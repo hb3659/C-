@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\097_Stack\bin\Debug\097_Stack.exe.config
+C:\Users\hb365\source\repos\CS_Project\097_Stack\bin\Debug\097_Stack.exe
+C:\Users\hb365\source\repos\CS_Project\097_Stack\bin\Debug\097_Stack.pdb
+C:\Users\hb365\source\repos\CS_Project\097_Stack\obj\Debug\097_Stack.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\097_Stack\obj\Debug\097_Stack.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\097_Stack\obj\Debug\097_Stack.exe
+C:\Users\hb365\source\repos\CS_Project\097_Stack\obj\Debug\097_Stack.pdb
