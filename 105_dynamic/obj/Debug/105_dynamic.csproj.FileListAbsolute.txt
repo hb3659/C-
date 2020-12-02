@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\105_dynamic\bin\Debug\105_dynamic.exe.config
+C:\Users\hb365\source\repos\CS_Project\105_dynamic\bin\Debug\105_dynamic.exe
+C:\Users\hb365\source\repos\CS_Project\105_dynamic\bin\Debug\105_dynamic.pdb
+C:\Users\hb365\source\repos\CS_Project\105_dynamic\obj\Debug\105_dynamic.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\105_dynamic\obj\Debug\105_dynamic.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\105_dynamic\obj\Debug\105_dynamic.exe
+C:\Users\hb365\source\repos\CS_Project\105_dynamic\obj\Debug\105_dynamic.pdb

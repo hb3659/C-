@@ -4,3 +4,4 @@ C:\Users\hb365\source\repos\CS_Project\020_Data_enum2\bin\Debug\020_Data_enum2.p
 C:\Users\hb365\source\repos\CS_Project\020_Data_enum2\obj\Debug\020_Data_enum2.csproj.CoreCompileInputs.cache
 C:\Users\hb365\source\repos\CS_Project\020_Data_enum2\obj\Debug\020_Data_enum2.exe
 C:\Users\hb365\source\repos\CS_Project\020_Data_enum2\obj\Debug\020_Data_enum2.pdb
+C:\Users\hb365\source\repos\CS_Project\020_Data_enum2\obj\Debug\020_Data_enum2.csprojAssemblyReference.cache

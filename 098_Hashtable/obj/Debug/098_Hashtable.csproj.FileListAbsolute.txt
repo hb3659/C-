@@ -4,3 +4,4 @@ C:\Users\hb365\source\repos\CS_Project\098_Hashtable\bin\Debug\098_Hashtable.pdb
 C:\Users\hb365\source\repos\CS_Project\098_Hashtable\obj\Debug\098_Hashtable.csproj.CoreCompileInputs.cache
 C:\Users\hb365\source\repos\CS_Project\098_Hashtable\obj\Debug\098_Hashtable.exe
 C:\Users\hb365\source\repos\CS_Project\098_Hashtable\obj\Debug\098_Hashtable.pdb
+C:\Users\hb365\source\repos\CS_Project\098_Hashtable\obj\Debug\098_Hashtable.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\113_throw\bin\Debug\113_throw.exe.config
+C:\Users\hb365\source\repos\CS_Project\113_throw\bin\Debug\113_throw.exe
+C:\Users\hb365\source\repos\CS_Project\113_throw\bin\Debug\113_throw.pdb
+C:\Users\hb365\source\repos\CS_Project\113_throw\obj\Debug\113_throw.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\113_throw\obj\Debug\113_throw.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\113_throw\obj\Debug\113_throw.exe
+C:\Users\hb365\source\repos\CS_Project\113_throw\obj\Debug\113_throw.pdb

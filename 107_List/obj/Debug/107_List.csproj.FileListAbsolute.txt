@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\107_List\bin\Debug\107_List.exe.config
+C:\Users\hb365\source\repos\CS_Project\107_List\bin\Debug\107_List.exe
+C:\Users\hb365\source\repos\CS_Project\107_List\bin\Debug\107_List.pdb
+C:\Users\hb365\source\repos\CS_Project\107_List\obj\Debug\107_List.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\107_List\obj\Debug\107_List.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\107_List\obj\Debug\107_List.exe
+C:\Users\hb365\source\repos\CS_Project\107_List\obj\Debug\107_List.pdb

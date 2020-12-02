@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\109_Stack\bin\Debug\109_Stack.exe.config
+C:\Users\hb365\source\repos\CS_Project\109_Stack\bin\Debug\109_Stack.exe
+C:\Users\hb365\source\repos\CS_Project\109_Stack\bin\Debug\109_Stack.pdb
+C:\Users\hb365\source\repos\CS_Project\109_Stack\obj\Debug\109_Stack.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\109_Stack\obj\Debug\109_Stack.exe
+C:\Users\hb365\source\repos\CS_Project\109_Stack\obj\Debug\109_Stack.pdb

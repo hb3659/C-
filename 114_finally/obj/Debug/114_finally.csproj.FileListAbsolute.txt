@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\114_finally\bin\Debug\114_finally.exe.config
+C:\Users\hb365\source\repos\CS_Project\114_finally\bin\Debug\114_finally.exe
+C:\Users\hb365\source\repos\CS_Project\114_finally\bin\Debug\114_finally.pdb
+C:\Users\hb365\source\repos\CS_Project\114_finally\obj\Debug\114_finally.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\114_finally\obj\Debug\114_finally.exe
+C:\Users\hb365\source\repos\CS_Project\114_finally\obj\Debug\114_finally.pdb

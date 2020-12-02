@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\108_Queue\bin\Debug\108_Queue.exe.config
+C:\Users\hb365\source\repos\CS_Project\108_Queue\bin\Debug\108_Queue.exe
+C:\Users\hb365\source\repos\CS_Project\108_Queue\bin\Debug\108_Queue.pdb
+C:\Users\hb365\source\repos\CS_Project\108_Queue\obj\Debug\108_Queue.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\108_Queue\obj\Debug\108_Queue.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\108_Queue\obj\Debug\108_Queue.exe
+C:\Users\hb365\source\repos\CS_Project\108_Queue\obj\Debug\108_Queue.pdb

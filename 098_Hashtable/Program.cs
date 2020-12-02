@@ -29,7 +29,7 @@ namespace _098_Hashtable
             {
                 ["pos"] = 10,
                 ["name"] = "Jane",
-                ["weight"] = 100.8f,
+                ["weight"] = 100.8f
             };
 
             foreach (object key in hashTableCopy.Keys)

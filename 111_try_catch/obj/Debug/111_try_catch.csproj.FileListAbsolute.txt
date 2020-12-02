@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\111_try_catch\bin\Debug\111_try_catch.exe.config
+C:\Users\hb365\source\repos\CS_Project\111_try_catch\bin\Debug\111_try_catch.exe
+C:\Users\hb365\source\repos\CS_Project\111_try_catch\bin\Debug\111_try_catch.pdb
+C:\Users\hb365\source\repos\CS_Project\111_try_catch\obj\Debug\111_try_catch.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\111_try_catch\obj\Debug\111_try_catch.exe
+C:\Users\hb365\source\repos\CS_Project\111_try_catch\obj\Debug\111_try_catch.pdb

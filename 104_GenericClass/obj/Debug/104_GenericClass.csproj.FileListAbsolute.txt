@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\104_GenericClass\bin\Debug\104_GenericClass.exe.config
+C:\Users\hb365\source\repos\CS_Project\104_GenericClass\bin\Debug\104_GenericClass.exe
+C:\Users\hb365\source\repos\CS_Project\104_GenericClass\bin\Debug\104_GenericClass.pdb
+C:\Users\hb365\source\repos\CS_Project\104_GenericClass\obj\Debug\104_GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\104_GenericClass\obj\Debug\104_GenericClass.exe
+C:\Users\hb365\source\repos\CS_Project\104_GenericClass\obj\Debug\104_GenericClass.pdb

@@ -1,0 +1,6 @@
+C:\Users\hb365\source\repos\CS_Project\110_Dictionary\bin\Debug\110_Dictionary.exe.config
+C:\Users\hb365\source\repos\CS_Project\110_Dictionary\bin\Debug\110_Dictionary.exe
+C:\Users\hb365\source\repos\CS_Project\110_Dictionary\bin\Debug\110_Dictionary.pdb
+C:\Users\hb365\source\repos\CS_Project\110_Dictionary\obj\Debug\110_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\110_Dictionary\obj\Debug\110_Dictionary.exe
+C:\Users\hb365\source\repos\CS_Project\110_Dictionary\obj\Debug\110_Dictionary.pdb

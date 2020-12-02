@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\103_GenericFunc\bin\Debug\103_GenericFunc.exe.config
+C:\Users\hb365\source\repos\CS_Project\103_GenericFunc\bin\Debug\103_GenericFunc.exe
+C:\Users\hb365\source\repos\CS_Project\103_GenericFunc\bin\Debug\103_GenericFunc.pdb
+C:\Users\hb365\source\repos\CS_Project\103_GenericFunc\obj\Debug\103_GenericFunc.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\103_GenericFunc\obj\Debug\103_GenericFunc.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\103_GenericFunc\obj\Debug\103_GenericFunc.exe
+C:\Users\hb365\source\repos\CS_Project\103_GenericFunc\obj\Debug\103_GenericFunc.pdb

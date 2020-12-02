@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\115_CustomException\bin\Debug\115_CustomException.exe.config
+C:\Users\hb365\source\repos\CS_Project\115_CustomException\bin\Debug\115_CustomException.exe
+C:\Users\hb365\source\repos\CS_Project\115_CustomException\bin\Debug\115_CustomException.pdb
+C:\Users\hb365\source\repos\CS_Project\115_CustomException\obj\Debug\115_CustomException.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\115_CustomException\obj\Debug\115_CustomException.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\115_CustomException\obj\Debug\115_CustomException.exe
+C:\Users\hb365\source\repos\CS_Project\115_CustomException\obj\Debug\115_CustomException.pdb
