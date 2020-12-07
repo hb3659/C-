@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\118_delegateParam\bin\Debug\118_delegateParam.exe.config
+C:\Users\hb365\source\repos\CS_Project\118_delegateParam\bin\Debug\118_delegateParam.exe
+C:\Users\hb365\source\repos\CS_Project\118_delegateParam\bin\Debug\118_delegateParam.pdb
+C:\Users\hb365\source\repos\CS_Project\118_delegateParam\obj\Debug\118_delegateParam.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\118_delegateParam\obj\Debug\118_delegateParam.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\118_delegateParam\obj\Debug\118_delegateParam.exe
+C:\Users\hb365\source\repos\CS_Project\118_delegateParam\obj\Debug\118_delegateParam.pdb

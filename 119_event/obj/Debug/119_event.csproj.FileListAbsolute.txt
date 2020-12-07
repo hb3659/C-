@@ -1,0 +1,7 @@
+C:\Users\hb365\source\repos\CS_Project\119_event\bin\Debug\119_event.exe.config
+C:\Users\hb365\source\repos\CS_Project\119_event\bin\Debug\119_event.exe
+C:\Users\hb365\source\repos\CS_Project\119_event\bin\Debug\119_event.pdb
+C:\Users\hb365\source\repos\CS_Project\119_event\obj\Debug\119_event.csprojAssemblyReference.cache
+C:\Users\hb365\source\repos\CS_Project\119_event\obj\Debug\119_event.csproj.CoreCompileInputs.cache
+C:\Users\hb365\source\repos\CS_Project\119_event\obj\Debug\119_event.exe
+C:\Users\hb365\source\repos\CS_Project\119_event\obj\Debug\119_event.pdb
